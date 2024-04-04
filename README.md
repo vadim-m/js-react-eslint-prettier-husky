@@ -6,13 +6,6 @@
 
 ```
 yarn install
-npx mrm@2 lint-staged
-```
-
-Удалить из package.json команду с флагом --cache:
-
-```
-"lint-staged": "*.{js,jsx,ts,tsx}": "eslint --cache --fix"
 ```
 
 ## Запуск проекта
